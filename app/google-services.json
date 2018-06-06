@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "798012782056",
+    "firebase_url": "https://versus-f970b.firebaseio.com",
+    "project_id": "versus-f970b",
+    "storage_bucket": "versus-f970b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798012782056:android:16eda5b0ab4845f8",
+        "android_client_info": {
+          "package_name": "com.vs.versus.versus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798012782056-cjdkfrf57ivi49m0sd9cihon4ac6v6nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vs.versus.versus",
+            "certificate_hash": "79792ea1115b4c13f2c99879b714bd37a514f187"
+          }
+        },
+        {
+          "client_id": "798012782056-1atloemv7jfheba0574chggc0l2d2od2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBryRnASltlbDSy0QgWRidoDfDfT7s9ZCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798012782056-1atloemv7jfheba0574chggc0l2d2od2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

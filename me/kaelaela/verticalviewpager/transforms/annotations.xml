@@ -1,0 +1,5 @@
+<root>
+    <item name='me.kaelaela.verticalviewpager.transforms.DefaultTransformer'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

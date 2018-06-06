@@ -1,0 +1,13 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">Versus</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">446170562493538</string>
+    <string name="fb_login_protocol_scheme">fb446170562493538</string>
+
+    <string name="TweetConsumer" android:name="com.twitter.sdk.android.CONSUMER_KEY">Mk5L5baTvSBE19aU8pNUv0NQg</string>
+    <string name="SecretTweetConsumer" android:name="com.twitter.sdk.android.CONSUMER_SECRET">boDuApY2ItBxu2C3Zhm4q5pZ1f5is9eLgUss198MYfTiela28P</string>
+</resources>
